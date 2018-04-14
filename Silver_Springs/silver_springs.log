@@ -1,0 +1,319 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.2.3)  8 MAR 2017 23:27
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**silver_springs.tex
+(./silver_springs.tex
+LaTeX2e <2016/02/01>
+Babel <3.9q> and hyphenation patterns for 3 language(s) loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2016/01/03 v1.0q Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 95.
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count87
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2016/01/03 v1.1b Standard LaTeX Color (DPC)
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 143.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count88
+\lst@gtempboxa=\box26
+\lst@token=\toks15
+\lst@length=\count89
+\lst@currlwidth=\dimen105
+\lst@column=\count90
+\lst@pos=\count91
+\lst@lostspace=\dimen106
+\lst@width=\dimen107
+\lst@newlines=\count92
+\lst@lineno=\count93
+\lst@maxwidth=\dimen108
+
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+\c@lstnumber=\count94
+\lst@skipnumbers=\count95
+\lst@framebox=\box27
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2015/06/04 1.6 listings configuration
+))
+Package: listings 2015/06/04 1.6 (Carsten Heinz)
+
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2015/06/04 1.6 listings language file
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2015/06/04 1.6 listings language file
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+)
+(./silver_springs.aux)
+\openout1 = `silver_springs.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+
+(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count96
+\scratchdimen=\dimen109
+\scratchbox=\box28
+\nofMPsegments=\count97
+\nofMParguments=\count98
+\everyMPshowfont=\toks16
+\MPscratchCnt=\count99
+\MPscratchDim=\dimen110
+\MPnumerator=\count100
+\makeMPintoPDFobject=\count101
+\everyMPtoPDFconversion=\toks17
+) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+\c@lstlisting=\count102
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 30.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 30.
+
+<silver_spring_model.png, id=1, 1127.21124pt x 615.29875pt>
+File: silver_spring_model.png Graphic file (type png)
+
+<use silver_spring_model.png>
+Package pdftex.def Info: silver_spring_model.png used on input line 36.
+(pdftex.def)             Requested size: 450.87651pt x 246.11513pt.
+
+Overfull \hbox (60.87651pt too wide) in paragraph at lines 36--38
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--38
+
+ []
+
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./silver_spring_model.png>
+] <graph1a.png, id=12, 1689.31125pt x 870.25125pt>
+File: graph1a.png Graphic file (type png)
+ <use graph1a.png>
+Package pdftex.def Info: graph1a.png used on input line 42.
+(pdftex.def)             Requested size: 506.79729pt x 261.0774pt.
+
+<graph1b.png, id=13, 1678.27pt x 840.13875pt>
+File: graph1b.png Graphic file (type png)
+ <use graph1b.png>
+Package pdftex.def Info: graph1b.png used on input line 43.
+(pdftex.def)             Requested size: 503.4849pt x 252.04356pt.
+
+Overfull \hbox (116.79729pt too wide) in paragraph at lines 42--44
+[] 
+ []
+
+
+Overfull \hbox (113.4849pt too wide) in paragraph at lines 42--44
+[] 
+ []
+
+<graph2a.png, id=14, 1676.2625pt x 853.1875pt>
+File: graph2a.png Graphic file (type png)
+ <use graph2a.png>
+Package pdftex.def Info: graph2a.png used on input line 50.
+(pdftex.def)             Requested size: 502.88263pt x 255.95822pt.
+
+<graph2b.png, id=15, 1666.225pt x 835.12pt>
+File: graph2b.png Graphic file (type png)
+ <use graph2b.png>
+Package pdftex.def Info: graph2b.png used on input line 51.
+(pdftex.def)             Requested size: 499.87137pt x 250.53793pt.
+
+Overfull \hbox (112.88263pt too wide) in paragraph at lines 50--52
+[] 
+ []
+
+
+Overfull \hbox (109.87137pt too wide) in paragraph at lines 50--52
+[] 
+ []
+
+[2 <./graph1a.png> <./graph1b.png>]
+<graph3a.png, id=21, 1668.2325pt x 844.15375pt>
+File: graph3a.png Graphic file (type png)
+ <use graph3a.png>
+Package pdftex.def Info: graph3a.png used on input line 54.
+(pdftex.def)             Requested size: 500.47362pt x 253.24808pt.
+
+<graph3b.png, id=22, 1673.25125pt x 840.13875pt>
+File: graph3b.png Graphic file (type png)
+ <use graph3b.png>
+Package pdftex.def Info: graph3b.png used on input line 55.
+(pdftex.def)             Requested size: 501.97925pt x 252.04356pt.
+
+Overfull \hbox (110.47362pt too wide) in paragraph at lines 54--56
+[] 
+ []
+
+
+Overfull \hbox (111.97925pt too wide) in paragraph at lines 54--56
+[] 
+ []
+
+[3 <./graph2a.png> <./graph2b.png>]
+<graph4a.png, id=28, 1684.2925pt x 850.17625pt>
+File: graph4a.png Graphic file (type png)
+ <use graph4a.png>
+Package pdftex.def Info: graph4a.png used on input line 58.
+(pdftex.def)             Requested size: 505.29166pt x 255.05484pt.
+
+<graph4b.png, id=29, 1730.465pt x 830.10126pt>
+File: graph4b.png Graphic file (type png)
+ <use graph4b.png>
+Package pdftex.def Info: graph4b.png used on input line 59.
+(pdftex.def)             Requested size: 519.14351pt x 249.0323pt.
+
+Overfull \hbox (115.29166pt too wide) in paragraph at lines 58--60
+[] 
+ []
+
+
+Overfull \hbox (129.14351pt too wide) in paragraph at lines 58--60
+[] 
+ []
+
+[4 <./graph3a.png> <./graph3b.png>] [5 <./graph4a.png> <./graph4b.png>]
+[6] <silver_spring_equation.png, id=44, 313.17pt x 835.12pt>
+File: silver_spring_equation.png Graphic file (type png)
+
+<use silver_spring_equation.png>
+Package pdftex.def Info: silver_spring_equation.png used on input line 73.
+(pdftex.def)             Requested size: 219.21748pt x 584.58pt.
+
+Overfull \vbox (64.32333pt too high) has occurred while \output is active []
+
+
+[7 <./silver_spring_equation.png>] (./silver_springs.aux) ) 
+Here is how much of TeX's memory you used:
+ 2818 strings out of 494953
+ 41426 string characters out of 6180978
+ 115390 words of memory out of 5000000
+ 6084 multiletter control sequences out of 15000+600000
+ 6717 words of font info for 24 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 38i,6n,58p,637b,219s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmti12.pfb>
+Output written on silver_springs.pdf (7 pages, 417943 bytes).
+PDF statistics:
+ 65 PDF objects out of 1000 (max. 8388607)
+ 31 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 51 words of extra memory for PDF output out of 10000 (max. 10000000)
+
